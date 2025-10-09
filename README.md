@@ -1,3 +1,3 @@
 ## Next.js Finance Dashboard
 
-This is the code for the Finance Dashboard application.
+This a full-stack Finance Dashboard application built using next.js. 
